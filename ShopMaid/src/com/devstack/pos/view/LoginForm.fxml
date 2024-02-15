@@ -10,7 +10,7 @@
 
 <AnchorPane fx:id="context" prefHeight="389.0" prefWidth="345.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.devstack.pos.controller.LoginFormController">
     <children>
-        <Text fill="#510303" layoutX="132.0" layoutY="32.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Robotikka">
+        <Text fill="#510303" layoutX="132.0" layoutY="32.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ShopMaid">
             <font>
                 <Font name="System Bold" size="16.0" />
             </font>
