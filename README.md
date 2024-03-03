@@ -14,6 +14,5 @@ ShopMaid is a robust standalone Java application developed to streamline busines
 ## Clone the Repository
 
  ```bash
-   git clone https://github.com/your-username/ShopMaid.git
-
+   git clone https://github.com/realDulanJay/ShopMaid-standalone-application.git
 
