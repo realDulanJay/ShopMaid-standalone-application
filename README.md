@@ -11,11 +11,9 @@ ShopMaid is a robust standalone Java application developed to streamline busines
 - **Product Management:** CRUD operations for products, including the addition of batches with unique QR codes.
 - **Order Placement:** Streamlined order placement by inputting customer details and product QR codes.
 
-## Getting Started
+## Clone the Repository
 
-To get started with ShopMaid, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
+ ```bash
    git clone https://github.com/your-username/ShopMaid.git
+
 
